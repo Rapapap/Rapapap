@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently interested in the Internet of Things and Web Development.<br><br>🌱 I’m currently learning JavaScript, ReactJS, C++, Java, and C#.<br><br>⚡ I'm an ADHD Undergraduate Student in CS major.
+🔭 I’m currently interested in Data Science, Internet of Things and Web Development.<br><br>🌱 I’m currently learning JavaScript, ReactJS, C++, Java, and C#.<br><br>⚡ I'm an ADHD Undergraduate Student in CS major.
 
 
 ## 🌐 Socials:
